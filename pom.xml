@@ -97,13 +97,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>canarabank Releases Nexus Repository</name>
-	      <url>http://3.110.184.25:8081/repository/canarabank-release/</url>
+	      <url>http://172.31.43.140:8081/repository/canarabank-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>canarabank Snapshot Nexus Repository </name>
-	      <url>http://3.110.184.25:8081/repository/canarabank-snapshot/</url>
+	      <url>http://172.31.43.140:8081/repository/canarabank-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
